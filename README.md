@@ -4,13 +4,12 @@
   
   [![wakatime](https://wakatime.com/badge/user/018c4121-ece9-4f40-a642-28e05a323bbd.svg)](https://wakatime.com/@018c4121-ece9-4f40-a642-28e05a323bbd)
 </div>
-<br/><br/>
+
 <h2 align="center">🛠️ My Technology Stack 🛠️</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,java,mysql,py,js,react" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,postman,cpp,git" />
 </div>
-<br/><br/>
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
 
